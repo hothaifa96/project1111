@@ -74,3 +74,5 @@
 # finally:
 #     x.close()
 
+print('hello')
+
