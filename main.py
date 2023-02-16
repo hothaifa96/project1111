@@ -74,6 +74,3 @@
 # finally:
 #     x.close()
 
-
-x=6
-x='hello'
